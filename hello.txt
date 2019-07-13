@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 print("hello word;")
+print("сем трям;")
+print("дратути;")
+print("хаюхай;")
+=======
+print("hello word;")
+>>>>>>> master
